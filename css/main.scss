@@ -51,3 +51,23 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+
+//fonts
+$font_0: fate-core;
+
+//urls
+$url_0: url(fonts/fate_core_font-webfont.eot);
+$url_1: url(fonts/fate_core_font-webfont.eot?#iefix);
+$url_2: url(fonts/fate_core_font-webfont.woff2);
+$url_3: url(fonts/fate_core_font-webfont.woff);
+$url_4: url(fonts/fate_core_font-webfont.ttf);
+$url_5: url(fonts/fate_core_font-webfont.svg#fate_core_glyphsregular);
+
+@font-face {
+    font-family: $font_0;
+    src: $url_0;
+    src: $url_1 format('embedded-opentype'), $url_2 format('woff2'), $url_3 format('woff'), $url_4 format('truetype'), $url_5 format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
