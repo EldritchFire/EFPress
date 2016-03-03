@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fate Core &amp; Accelerated Editions
+title: Fate Core & Accelerated Editions
 ---
 
 There still seems to be a bit of confusion when it comes to the differences between the two newest versions of Fate by Evil Hat. Today, I hope to give a concise list of the differences.
