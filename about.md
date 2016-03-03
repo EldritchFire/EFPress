@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm an accountant by trade, but a gamer at heart. I play all kinds of games: board games, table-top RPGs, console games, and computer games. My first love was and still  is Star Wars but I still enjoy other Sci Fi shows: Star Trek, Doctor Who, Warehouse 13, Supernatural, etc.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I love dice of all shapes and sizes, and I speak French.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Time Zone, GMT -6hrs (Central Time)
