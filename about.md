@@ -8,4 +8,4 @@ I'm an accountant by trade, but a gamer at heart. I play all kinds of games: boa
 
 I love dice of all shapes and sizes, and I speak French.
 
-Time Zone, GMT -6hrs (Central Time)
+**Time Zone:** GMT -6hrs (Central Time)
