@@ -22,7 +22,7 @@ Another big difference is the context. In FC, your character has skills. It tell
 
 FAE, on the other hand, has 6 approaches instead of skills. Approaches tell how your character does something, and they are Careful, Clever, Flashy, Forceful, Quick, and Sneaky. Take the famous attack action: if hidden in shadows, you can sneakily attack, but a barbarian would forcefully do the same, while an elven archer would carefully line up a shot. With the focus on how something is done instead of what is done, you can get away with a lot more with the 6 approaches than 18 skills.
 
-##Miscellaneous
+## Miscellaneous
 There are a lot more minor changes between the two, like FAEs mad-lib style stunts, or FC having three different types of mooks.
 
 Also of note is the rules on stress and consequence recovery. In FC, you have two stress tracks: physical and mental. They start out at 2 boxes, and can go up to 4 with high skill ratings. In FAE, you have one stress track of 3 boxes. FC mild consequences require a skill roll to start recovery, then they last for one scene, FAE mild consequences clear out at the end of the scene with no recovery roll or time required.
