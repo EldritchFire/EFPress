@@ -21,7 +21,7 @@ After long weeks of experimentation, Aina was in for a long night. Fortunately f
 
 With her new powers as yet untested, she made her way from the Rogue Isles to [Paragon City](http://wiki.cohtitan.com/wiki/Paragon_City) to throw in her lot with the heroes sworn to stop Arachnos.
 
-##Who?
+## Who?
 **Aina Nightbringer**  
 Solo d6 • Buddy d10 • Team d8  
 *Life Ain’t Fair* • *Hero-in-Training* • *Street Rat*
